@@ -1,6 +1,6 @@
 {
-  "name": "get-graphql-schema",
-  "version": "0.0.0-semantic-release",
+  "name": "@creatorrr/get-graphql-schema",
+  "version": "0.0.3",
   "description": "Downloads the GraphQL Schema of an GraphQL endpoint URL",
   "author": "Johannes Schickling <johannes@graph.cool>",
   "bin": {
